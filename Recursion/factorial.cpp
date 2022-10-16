@@ -1,7 +1,7 @@
 // factorial using recursion
 #include <bits/stdc++.h>
 using namespace std;
-
+// recursive factorial func.
 int fac(int n)
 {
   if (n == 0)
