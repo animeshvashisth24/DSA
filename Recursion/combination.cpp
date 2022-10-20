@@ -23,7 +23,7 @@ int nCr(int n, int r)
   return t1 / (t2 * t3);
 }
 
-// combination using recursion based on pascal's tri formula
+// combination using recursion based on pascal's triangle formula
 int recursive_nCr(int n, int r)
 {
   if (n == r || r == 0)
