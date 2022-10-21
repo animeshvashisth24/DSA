@@ -2,7 +2,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// first method
+// first method  - using basic recursion
 double e(int x, int n)
 {
   static double p = 1, f = 1;
