@@ -21,6 +21,7 @@ int main()
     cout << B[i] << " ";
   }
   cout << "\n";
+  
   // printing address of elements of array
   for (int i = 0; i < 5; i++)
   {
