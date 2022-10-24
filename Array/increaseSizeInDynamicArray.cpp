@@ -26,6 +26,7 @@ int main()
     cout << "p[" << i << "] = ";
     cin >> p[i];
   }
+  
   // display p elements before updation
   cout << "--> p elements before increasing size - " << endl;
   for (int i = 0; i < 5; i++)
@@ -42,6 +43,7 @@ int main()
   p[5] = 6;
   p[6] = 7;
   p[7] = 8;
+  
   // display p elements after incresing size
   cout << "\n --> p elements after increasing size - " << endl;
   for (int i = 0; i < 10; i++)
