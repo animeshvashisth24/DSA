@@ -11,6 +11,7 @@ void display(int arr[], int length)
   }
   cout << endl;
 }
+
 // adding an element only at free space in the array
 void append(int arr[], int &length, int x) // length is called by reference
 {
@@ -20,6 +21,7 @@ void append(int arr[], int &length, int x) // length is called by reference
     length = length + 1;
   }
 }
+
 int main()
 {
   int arr[10] = {2, 4, 6, 8, 10};
