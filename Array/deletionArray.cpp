@@ -3,7 +3,7 @@
 using namespace std;
 int size = 10;
 int length = 6;
-// delete function
+
 int deletion(int arr[], int index)
 {
   if (index >= 0 && index < length)
