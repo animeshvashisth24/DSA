@@ -24,6 +24,7 @@ void display(int arr[])
   }
   cout << endl;
 }
+
 int main()
 {
   int arr[size] = {2, 4, 6, 8, 10};
