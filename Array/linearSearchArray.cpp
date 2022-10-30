@@ -9,6 +9,7 @@ void swap(int &a, int &b)
   b = a ^ b;
   a = a ^ b;
 }
+
 void display(int arr[])
 {
   for (int i = 0; i < length; i++)
