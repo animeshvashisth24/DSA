@@ -11,6 +11,7 @@ void display(int arr[])
   }
   cout << endl;
 }
+
 // using auxiliary(extra) aaray B to copy from A in reverse order then from B to A
 void reverseArray1(int A[])
 {
@@ -24,6 +25,7 @@ void reverseArray1(int A[])
     A[i] = B[i];
   }
 }
+
 // scanning from both ends and swapping elements
 void reverseArray2(int arr[])
 {
