@@ -19,6 +19,7 @@ int leftShiftByOne(int arr[])
   }
   return 0;
 }
+
 int main()
 {
   int arr[10] = {2, 4, 6, 8, 10};
