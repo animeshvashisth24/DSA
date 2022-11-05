@@ -11,6 +11,7 @@ void display(int arr[])
   }
   cout << endl;
 }
+
 int leftRotateByOne(int arr[])
 {
   int temp = arr[0]; // storing first element value
