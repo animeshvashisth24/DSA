@@ -24,6 +24,7 @@ int binarySearch(int arr[], int low, int high, int key)
   }
   return -1; // not found
 }
+
 int main()
 {
   int key;
