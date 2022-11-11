@@ -86,6 +86,7 @@ float avg(int arr[])
   }
   return (float)total / length;
 }
+
 int main()
 {
 
