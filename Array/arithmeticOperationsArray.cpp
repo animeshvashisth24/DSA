@@ -11,6 +11,7 @@ void display(int arr[])
   }
   // cout << endl;
 }
+
 // getter
 int Get(int arr[], int index)
 {
@@ -20,6 +21,7 @@ int Get(int arr[], int index)
   }
   return -1; // index incorrect
 }
+
 // setter
 int Set(int arr[], int index, int x)
 {
@@ -30,6 +32,7 @@ int Set(int arr[], int index, int x)
   }
   return -1;
 }
+
 // max func
 int Max(int arr[])
 {
@@ -43,6 +46,7 @@ int Max(int arr[])
   }
   return maxx;
 }
+
 // min func
 int Min(int arr[])
 {
@@ -56,6 +60,7 @@ int Min(int arr[])
   }
   return minn;
 }
+
 // sum func - iterative
 int sum(int arr[])
 {
@@ -76,6 +81,7 @@ int rSum(int arr[], int n)
     return rSum(arr, n - 1) + arr[n];
   }
 }
+
 // avg func
 float avg(int arr[])
 {
@@ -89,7 +95,6 @@ float avg(int arr[])
 
 int main()
 {
-
   int arr[10] = {10, 20, 30, 40, 55, 60, 70, 80, 90, 100};
   // get fun
   cout << "\n element at index 4 is : " << Get(arr, 4) << endl; // get fun
