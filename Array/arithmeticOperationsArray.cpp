@@ -71,6 +71,7 @@ int sum(int arr[])
   }
   return total;
 }
+
 // sum func - recursive
 int rSum(int arr[], int n)
 {
