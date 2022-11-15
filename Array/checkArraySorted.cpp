@@ -15,6 +15,7 @@ bool checkSorted(int arr[])
   }
   return true;
 }
+
 int main()
 {
   int arr[size] = {2, 4, 6, 8, 10, 12};
