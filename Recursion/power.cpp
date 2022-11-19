@@ -14,6 +14,7 @@ int pow(int m, int n)
     return pow(m, n - 1) * m;
   }
 }
+
 // improved version with less no. of multiplications (optimised)
 int iPow(int m, int n)
 {
