@@ -3,6 +3,7 @@
 using namespace std;
 int size = 10;
 int length = 10;
+
 void display(int arr[])
 {
   for (int i = 0; i < length; i++)
