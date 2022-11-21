@@ -3,7 +3,6 @@
 using namespace std;
 int size = 10;
 int length = 6;
-
 bool checkSorted(int arr[])
 {
   for (int i = 0; i < length - 1; i++)
