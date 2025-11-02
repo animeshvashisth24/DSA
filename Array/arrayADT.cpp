@@ -30,7 +30,9 @@ int main()
   {
     cin >> arr.A[i];
   }
-  arr.length = n;
+  arr.length = n; //assigning length
+  
   display(arr); // displaying array elements
   return 0;
 }
+
