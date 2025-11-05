@@ -1,4 +1,4 @@
-// get,set,max,min,sum(2 approach),avg functions on array
+//get,set,max,min,sum(2 approach),avg functions on array
 #include <bits/stdc++.h>
 using namespace std;
 int size = 10;
@@ -123,3 +123,4 @@ int main()
   cout << "\n\n";
   return 0;
 }
+
