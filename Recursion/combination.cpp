@@ -1,4 +1,4 @@
-// combination (nCr) using 2 methods
+//combination (nCr) using 2 methods
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -42,3 +42,4 @@ int main()
   cout << "recursive nCr using pascal's tri = " << recursive_nCr(4, 2) << "\n";
   return 0;
 }
+
