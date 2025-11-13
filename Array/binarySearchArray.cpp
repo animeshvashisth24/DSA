@@ -2,7 +2,7 @@
 using namespace std;
 int size = 10;
 int length = 10;
-
+// binary search function
 int binarySearch(int arr[], int low, int high, int key)
 {
 
@@ -40,3 +40,4 @@ int main()
     cout << "\nelement not found" << endl;
   return 0;
 }
+
