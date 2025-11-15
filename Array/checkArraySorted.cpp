@@ -1,4 +1,4 @@
-// check whether array is sorted in ascending order or not
+//check whether array is sorted in ascending order or not
 #include <bits/stdc++.h>
 using namespace std;
 int size = 10;
@@ -28,3 +28,4 @@ int main()
   }
   return 0;
 }
+
