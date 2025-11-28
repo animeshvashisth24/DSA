@@ -1,5 +1,5 @@
 // factorial using recursion
-#include <bits/stdc++.h>
+# include <bits/stdc++.h>
 using namespace std;
 // recursive factorial
 int fac(int n)
@@ -19,4 +19,5 @@ int main()
   cout << a << "\n";
   return 0;
 }
+
 
