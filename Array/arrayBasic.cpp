@@ -1,4 +1,4 @@
-//array declarations and initialisations
+// array declarations and initialisations
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -29,4 +29,5 @@ int main()
   }
   return 0;
 }
+
 
