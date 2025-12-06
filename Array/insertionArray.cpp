@@ -1,4 +1,4 @@
-// insertion in array at a given index(replacing an element with another)
+//  insertion in array at a given index(replacing an element with another)
 #include <bits/stdc++.h>
 using namespace std;
 int size = 10; // making size and length public(global) so that they are not required to pass to every function as parameter
@@ -33,3 +33,4 @@ int main()
   display(arr);
   return 0;
 }
+
