@@ -1,4 +1,4 @@
-// left rotate array by one (first index value replaced at last element place)--looka like loop
+//  left rotate array by one (first index value replaced at last element place)--looka like loop
 #include <bits/stdc++.h>
 using namespace std;
 int size = 10;
@@ -38,3 +38,4 @@ int main()
   display(arr);
   return 0;
 }
+
