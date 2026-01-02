@@ -1,4 +1,4 @@
-//  left shift array by one(loosing first element value)-- looks like scrolling
+// left shift array by one(loosing first element value)-- looks like scrolling
 #include <bits/stdc++.h>
 using namespace std;
 int size = 10;
@@ -30,4 +30,5 @@ int main()
   display(arr);
   return 0;
 }
+
 
