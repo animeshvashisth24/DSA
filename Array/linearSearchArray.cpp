@@ -1,4 +1,4 @@
-//  linear search and its two optimisation versions
+// linear search and its two optimisation versions
 #include <bits/stdc++.h>
 using namespace std;
 int size = 10;
@@ -128,4 +128,5 @@ int main()
   display(arr);
   return 0;
 }
+
 
