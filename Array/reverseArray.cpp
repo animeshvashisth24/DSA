@@ -1,4 +1,4 @@
-//  reversing an array - both methods
+// reversing an array - both methods
 #include <bits/stdc++.h>
 using namespace std;
 int size = 10;
@@ -56,4 +56,5 @@ int main()
   display(arr);
   return 0;
 }
+
 
