@@ -1,4 +1,4 @@
-# include <bits/stdc++.h>
+#  include <bits/stdc++.h>
 using namespace std;
 int size = 10;
 int length = 10;
@@ -40,5 +40,6 @@ int main()
     cout << "\nelement not found" << endl;
   return 0;
 }
+
 
 
