@@ -1,4 +1,4 @@
-#  include <bits/stdc++.h>
+# include <bits/stdc++.h>
 using namespace std;
 
 //  defining array as DATA
@@ -35,6 +35,7 @@ int main()
   display(arr); // displaying array elements
   return 0;
 }
+
 
 
 
