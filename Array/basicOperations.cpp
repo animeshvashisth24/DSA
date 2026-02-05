@@ -1,5 +1,5 @@
 // display and add/append functions in array
-#include <bits/stdc++.h>
+# include <bits/stdc++.h>
 using namespace std;
 
 // display array elements
@@ -31,6 +31,7 @@ int main()
   display(arr, length);
   return 0;
 }
+
 
 
 
