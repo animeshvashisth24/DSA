@@ -1,4 +1,4 @@
-// recursion and its types
+//recursion and its types
 #include <iostream>
 using namespace std;
 void funB(int n);
@@ -85,5 +85,6 @@ int main()
   cout << ans << "\n";
   return 0;
 }
+
 
 
