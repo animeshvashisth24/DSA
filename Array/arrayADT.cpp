@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-//  defining array as DATA
+// defining array as DATA
 struct Array
 {
   int *A; // dynamic array in heap
@@ -35,6 +35,7 @@ int main()
   display(arr); // displaying array elements
   return 0;
 }
+
 
 
 
