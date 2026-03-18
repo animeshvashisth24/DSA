@@ -1,4 +1,4 @@
-// dynamic array(array in heap memory) and its size increase or decrease
+//dynamic array(array in heap memory) and its size increase or decrease
 #include <bits/stdc++.h>
 using namespace std;
 
