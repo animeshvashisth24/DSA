@@ -1,4 +1,4 @@
-// fibonacci series - 3  different methods
+//fibonacci series - 3  different methods
 #include <bits/stdc++.h>
 using namespace std;
 int fiboArr[10];  // global arr or static arr for memo (retaining values)
