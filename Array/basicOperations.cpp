@@ -1,4 +1,4 @@
-//display and add/append functions in array
+// display and add/append functions in array
 # include <bits/stdc++.h>
 using namespace std;
 
