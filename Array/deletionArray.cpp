@@ -1,4 +1,4 @@
-//deletion from an index(not leaving empty spaces in array)
+// deletion from an index(not leaving empty spaces in array)
 #include <bits/stdc++.h>
 using namespace std;
 int size = 10;
