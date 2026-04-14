@@ -1,4 +1,4 @@
-// combination (nCr) using 2 methods
+//combination (nCr) using 2 methods
 #include <bits/stdc++.h>
 using namespace std;
 
