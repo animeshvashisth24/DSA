@@ -1,4 +1,4 @@
-//tower of hanoi using recursion - O(2^n)
+// tower of hanoi using recursion - O(2^n)
 #include <bits/stdc++.h>
 using namespace std;
 
